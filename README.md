@@ -1,2 +1,2 @@
 # Food-Billing-System
-The food billing system is an advanced software solution designed to streamline and automate the process of generating bills and managing transactions in a food establishment, such as a restaurant, café, or food court
+The food billing system is an advanced software solution designed to streamline and automate the process of generating bills and managing transactions in a food establishment, such as a restaurant, café, or food court. This system serves as a central hub for managing all aspects of the billing process, from ordering to payment, and provides a seamless experience for both customers and staff.
